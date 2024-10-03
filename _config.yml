@@ -21,8 +21,6 @@ author: Hi! I'm Shlok
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Resume: "https://beautifuljekyll.com"
   Author's home: "https://diveindevops.com/aboutme/"
 
 ################
