@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mastering PostgreSQL Performance: Indexing and Query Optimization
+title: Mastering PostgreSQL Performance; Indexing and Query Optimization
 tags: [postgresql]
 author: Shlok
 ---
