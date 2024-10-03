@@ -2,6 +2,7 @@
 layout: post
 title: Implementing Custom Controllers and Operators in Kubernetes
 subtitle: A Deep Dive tutorial
+cover-img: /assets/img/custom-bg.png
 tags: [kubernetes]
 author: Shlok
 ---
