@@ -27,5 +27,5 @@ Seeing team members grow and suceed is one of the most rewarding part of the job
 
 I bring a mix of technical expertise and leadership skills to the table. With my background, I'm confident in taking roles that require both in-depth knowledge and the ability to guide a team towards success.
 
-Schedule a 30min discussion with me using this link: https://calendly.com/shlok15/30min
+Schedule a 30min discussion with me using this link: [1:1 with Shlok](https://calendly.com/shlok15/30min)
 
