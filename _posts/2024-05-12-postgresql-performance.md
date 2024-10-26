@@ -7,7 +7,7 @@ author: Shlok
 ---
 
 
-As a long-time PostgreSQL enthusiast, I've spent countless hours tuning databases to squeeze out every last drop of performance. One of the most impactful areas to focus on is indexing and query optimization. In this post, I'll share some in-depth insights into how PostgreSQL handles indexing, how the query planner works, and practical tips to optimize your queries for maximum efficiency.
+In this post, I'll share some in-depth insights into how PostgreSQL handles indexing, how the query planner works, and practical tips to optimize your queries for maximum efficiency.
 
 ---
 
