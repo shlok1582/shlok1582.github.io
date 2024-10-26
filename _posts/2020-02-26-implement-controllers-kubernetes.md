@@ -7,8 +7,6 @@ tags: [kubernetes]
 author: Shlok
 ---
 
-## Introduction
-
 Kubernetes has become the de facto standard for container orchestration, providing a powerful platform for deploying, scaling, and managing containerized applications. While Kubernetes offers a rich set of built-in resources and controllers, there are scenarios where you need to extend its functionality to meet custom requirements. This is where **Custom Controllers** and **Operators** come into play.
 
 In this post, we'll take an in-depth look at how to implement custom controllers and operators in Kubernetes. We'll explore the underlying architecture, delve into the reconciliation loop, and provide code examples to illustrate key concepts.
