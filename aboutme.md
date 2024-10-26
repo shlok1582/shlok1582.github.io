@@ -10,15 +10,15 @@ What else do you need?
 
 ### My story
 
-I'm a DevOps enthusiast with over five years of hands-on experience. But more importantly, I'm the kind of guy who loves solving problems and making everyone's life a bit easier - one script at a time.
+I'm a DevOps enthusiast with over five years of hands-on experience. But more importantly, I'm someone who loves solving problems and making everyone's life a bit easier - one script at a time.
 
 #### Jack of All Trades, Master of Some
 
-But, I have dabbled in a bit of everything, from DC to Cloud, from kubernetes to handling self managed onprem infrastructures but I have deep rooted knowledge about PostgreSQL. If it was an art form, I'll be Picasso.
+I have dabbled in a bit of everything, from DC to Cloud, from managed kubernetes to handling self managed onprem infrastructure. My main focus lately has been leading devops for Pinelabs' [Plural](https://www.pluralonline.com) payment gateway on AWS.
 
 #### Team Player (Please not Microsoft teams)
 
-I've led projects and teams, and I genuinely enjoy helping others grow. Plus, I bring donuts to meetings -- just saying.
+I've led projects and teams, and I genuinely enjoy helping others grow. I encourage work and personal boundaries, I buy pizzas if I ever have to call someone off working hours  -- just saying.
 
 I've spent years not just building systems, but also building teams and strategies. I believe good leadership is about empowerment and clear communication.
 
