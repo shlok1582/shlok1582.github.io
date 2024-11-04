@@ -174,8 +174,8 @@ footer-hover-col: "#0085A1"
 # Uncomment the following section to enable Matomo. The opt-out parameter controls
 # whether or not you want to allow users to opt out of tracking.
 matomo:
-  site_id: "WhZTog5D"
-  uri: "diveindevops.matomo.cloud"
+  site_id: "1"
+  uri: "https://diveindevops.matomo.cloud/"
   opt-out: true
 
 # Google Universal Analytics ID -- deprecated
